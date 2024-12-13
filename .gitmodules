@@ -1,3 +1,6 @@
 [submodule "templates"]
 	path = templates
 	url = https://github.com/sethhillbrand/kicad_templates.git
+[submodule "Fanstel-kicad-library"]
+	path = Fanstel-kicad-library
+	url = https://github.com/hemalchevli/Fanstel-kicad-library.git

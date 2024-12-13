@@ -1,4 +1,4 @@
-(footprint "DTS0008A-MFG"
+(footprint "OPT4001"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "DTS0008A-MFG"
+	(property "Value" "OPT4001"
 		(at 0 2 0)
 		(unlocked yes)
 		(layer "F.Fab")

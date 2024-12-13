@@ -1,4 +1,4 @@
-(footprint "LGA-14L_2P5X3X0P83_STM"
+(footprint "LSM6DSMTR"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "LGA-14L_2P5X3X0P83_STM"
+	(property "Value" "LSM6DSMTR"
 		(at 0 -3 0)
 		(unlocked yes)
 		(layer "F.Fab")
